@@ -1,0 +1,18 @@
+
+.mainColumn {
+    width: 600px;
+    margin: auto;
+    background-color: #ffffff;
+}
+
+.headerBG {
+	background-color: #e1e1e1;
+}
+
+.contentText{
+    line-height: 1.6;
+}
+
+.footerBG {
+	background-color: #e1e1e1;
+}

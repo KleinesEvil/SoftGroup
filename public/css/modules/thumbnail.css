@@ -1,0 +1,34 @@
+/*Add Photo style*/
+
+.thumbnailsBorder {
+	margin-left: 30px;
+	margin-right: 30px;
+	padding-top: 30px;
+	border-top: 1px solid;
+	border-color: #eaeaea;
+}
+
+.thumbnails .row {
+	margin: 0px;
+}
+
+.thumbnails .row .thmb {
+	float: left;
+}
+
+.thmb img:hover{
+	filter: brightness(90%);
+}
+
+.thumbnailsBorder .thmb1 .thmb {
+	padding-right: 15px;
+}
+
+.thumbnailsBorder .thmb2 .thmb {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.thumbnailsBorder .thmb3 .thmb {
+	padding-left: 15px;
+}

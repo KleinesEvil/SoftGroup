@@ -1,0 +1,46 @@
+/* Header style*/
+
+.header {
+	height: 100px;
+	background-color: #53545e;
+	width: 600px;
+	margin: auto;
+}
+
+.header img {
+	padding-left: 31px;
+	padding-top: 34px;
+}
+
+.header a:hover {
+	text-decoration: none;
+}
+
+.header .companyName {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 30px;
+	font-weight: 700;
+	letter-spacing: -1.1px;
+	padding-left: 16px;
+	position: relative;
+	top: 26px;
+}
+
+.header .companyName span font:nth-child(1) {
+	color: #ffffff;
+}
+
+.header .companyName span font:nth-child(2) {
+	color: #a6a7b0
+}
+
+.header .companyMotto {
+	font-size: 12px;
+	position: relative;
+	top: 25px;
+	font-family: 'Open Sans', sans-serif;
+	left: 73px;
+	color: #f1f1f1;
+	font-weight: 600;
+	letter-spacing: -0.2px;
+}
